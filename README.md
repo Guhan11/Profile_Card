@@ -30,7 +30,7 @@ Technology	Purpose
 🏁 Getting Started
 
 Clone this repository
-git clone https://github.com/yourusername/dynamic-profile-card.git
+git clone https://github.com/Guhan11/Profile_Card.git
 
 Navigate into the project directory
 cd dynamic-profile-card
